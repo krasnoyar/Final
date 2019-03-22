@@ -4,7 +4,11 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-
+*.exe
+next_Data/**/*
+Factorio_Data/**/*
+game_Data/**/*
+new_Data/**/*
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
 
